@@ -1,0 +1,14 @@
+.DS_Store
+application/config/config.php
+application/config/database.php
+application/config/routes.php
+application/controllers/.DS_Store
+application/models/.DS_Store
+application/views/.DS_Store
+application/libraries/.DS_Store
+# Para visual studio code IDE
+config.json
+*.json
+/logs/test.logfile
+/logs/**/test.logfile
+/logs/
